@@ -1,0 +1,20 @@
+{
+  "name": "angular-phonegap-accelerometer",
+  "version": "0.0.1",
+  "main": "accelerometer.js",
+  "dependencies": {
+    "angular": "~1.0.5",
+    "angular-phonegap-ready": "~0.0.1"
+  },
+  "homepage": "https://github.com/btford/angular-phonegap-accelerometer",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "4ca99696de2cb33ebbb4ff2c470721bf6c31c967"
+  },
+  "_source": "git://github.com/btford/angular-phonegap-accelerometer.git",
+  "_target": "~0.0.1",
+  "_originalSource": "angular-phonegap-accelerometer",
+  "_direct": true
+}
